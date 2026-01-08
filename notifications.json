@@ -1,11 +1,13 @@
 [
   {
     "id": 0,
+    "imageUrl": null,
     "title": "Salom, hammaga!",
     "text": "Siz bilan ishlashdan juda xursandmiz"
   },
   {
     "id": 1,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROHxYft1f_Ln_y_scKnh8-g5rLMmce7JKyPQ&s",
     "title": "Ikonka masalasi",
     "text": "Agar kodingizda ikonkani ko‘rsatgan bo‘lsangiz ham qo‘ng‘iroqcha chiqayotgan bo‘lsa, OneSignal panelidan (Dashboard) tekshiring:  Xabar yuborayotganingizda AndroidSmallIcon degan joyga o‘sha yuklagan rasmingizning nomini (masalan: ic_stat_onesignal_default) yozishingiz kerak.  Agar Android Large Icon ishlatsangiz, u rasm rangli bo‘lishi mumkin, lekin u yuqoridagi kichik joyda emas, bildirishnomaning o‘ng tomonida kattaroq bo‘lib chiqadi."
   }
