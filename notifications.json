@@ -7,6 +7,6 @@
   {
     "id": 0,
     "title": "Ikonka masalasi",
-    "text": "Agar kodingizda ikonkani ko‘rsatgan bo‘lsangiz ham qo‘ng‘iroqcha chiqayotgan bo‘lsa, OneSignal panelidan (Dashboard) tekshiring:  Xabar yuborayotganingizda "AndroidSmallIcon" degan joyga o‘sha yuklagan rasmingizning nomini (masalan: ic_stat_onesignal_default) yozishingiz kerak.  Agar Android Large Icon ishlatsangiz, u rasm rangli bo‘lishi mumkin, lekin u yuqoridagi kichik joyda emas, bildirishnomaning o‘ng tomonida kattaroq bo‘lib chiqadi."
+    "text": "Agar kodingizda ikonkani ko‘rsatgan bo‘lsangiz ham qo‘ng‘iroqcha chiqayotgan bo‘lsa, OneSignal panelidan (Dashboard) tekshiring:  Xabar yuborayotganingizda AndroidSmallIcon degan joyga o‘sha yuklagan rasmingizning nomini (masalan: ic_stat_onesignal_default) yozishingiz kerak.  Agar Android Large Icon ishlatsangiz, u rasm rangli bo‘lishi mumkin, lekin u yuqoridagi kichik joyda emas, bildirishnomaning o‘ng tomonida kattaroq bo‘lib chiqadi."
   }
 ]
